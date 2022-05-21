@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#</strong>
 - 🤔 I’m looking for help with <strong> Html, Css , Scss , Javascript , C#</strong>
 - 💬 Ask me about 
-- 📫 How to reach me: <a href:"mailto:senavni35@gmail.com">Mail Adress</a>
+- 📫 How to reach me: <a href="mailto:senavni35@gmail.com" rel="_BLANK">Mail Adress</a>
 
 
 # Connect with me:
