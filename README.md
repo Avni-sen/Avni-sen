@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avni-sen)](https://github.com/anuraghazra/github-readme-stats)
-![Avni-sen's github stats](https://github-readme-stats.vercel.app/api?username=Avni-sen&hide=contribs,prs)
+
 ![Avni-sen's github stats](https://github-readme-stats.vercel.app/api?username=Avni-sen&show_icons=true&theme=radical)
+![Avni-sen's github stats](https://github-readme-stats.vercel.app/api?username=Avni-sen&hide=contribs,prs)
 
