@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-end Developer/Html,css,Javascript,React.Js 
+- 🔭 I’m currently working on <strong>Front-end Developer/Html, Css, Javascript, React.Js </strong>
 - 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#</strong>
 - 🤔 I’m looking for help with <strong> Html, Css , Scss , Javascript , C#</strong>
 - 💬 Ask me about 
