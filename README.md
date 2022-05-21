@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi there , I'm Avni Şen👋
 
 
-**Avni-sen/Avni-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# A passionate Front-end Developer from Turkey
 
 - 🔭 I’m currently working on <strong>Front-end Developer/Html, Css, Javascript, React.Js </strong>
 - 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#</strong>
 - 🤔 I’m looking for help with <strong> Html, Css , Scss , Javascript , C#</strong>
-- 💬 Ask me about 
 - 📫 How to reach me: <a href="mailto:senavni35@gmail.com" rel="_BLANK">senavni35@gmail.com</a>
 
 
