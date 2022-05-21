@@ -1,7 +1,7 @@
-### Hi there , I'm Avni Şen👋
+### A passionate Front-end Developer from Turkey
 
 
-# A passionate Front-end Developer from Turkey
+#  Hi there , I'm Avni Şen👋
 
 - 🔭 I’m currently working on <strong>Front-end Developer/Html, Css, Javascript, React.Js </strong>
 - 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#</strong>
