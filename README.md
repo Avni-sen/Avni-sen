@@ -10,12 +10,7 @@
 <p>For me, coding is not just a job, but a passion and hobby. When completing a project, I also consider design and user experience. I am also skilled in collaboration, problem-solving, and teamwork.</p>
 </br>
 <p>I am excited to learn and further develop myself with you.</p>
-</br>
 <p>Best regards,</p>
-
-
-
-
 
 
 
