@@ -3,9 +3,9 @@
 
 #  A passionate Front-end Developer from Turkey
 
-- 🔭 I’m currently working on <strong>Front-end Developer/Html, Css, Javascript, React.Js </strong>
-- 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#</strong>
-- 🤔 I’m looking for help with <strong> Html, Css , Scss , Javascript , C#</strong>
+- 🔭 I’m currently working on <strong>Front-end Developer/Html, Css, JavaScript, React, TypeScript , Angular </strong>
+- 🌱 I’m currently learning <strong>.Net Core, React, Javascript , C#, Angular</strong>
+- 🤔 I’m looking for help with <strong> Html, Css , Scss , JavaScript , C#, ASP.NET Core , Angular</strong>
 - 📫 How to reach me: <a href="mailto:senavni35@gmail.com" rel="_BLANK">senavni35@gmail.com</a>
 
 
